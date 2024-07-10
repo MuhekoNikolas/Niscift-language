@@ -1,0 +1,18 @@
+
+include json
+from os.path include os as imported_python_os; 
+from os include sys
+from os include sys
+include os as operating_system
+
+python_path_join_function = imported_python_os.path.join
+
+y = imported_python_os.path.join
+operating_system.x = {}
+operating_system.x.y = {2000000000: {x: "fijfiohfohfoi"}}
+
+parent_key = "2000000000"
+child_key = "x"
+
+const zol = operating_system.x.y[parent_key][child_key]
+zo = operating_system["x"]

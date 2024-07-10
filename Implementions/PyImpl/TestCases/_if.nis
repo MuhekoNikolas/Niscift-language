@@ -1,0 +1,10 @@
+
+
+if y in ['y', 'Y', 'yes', 'Yes', 'YES', 'YES']:
+    print("Yes")
+
+if y is not True:
+    pass
+
+if y is not True or y in ['y', 'Y', 'yes', 'Yes', 'YES', 'YES'] and False:
+    pass

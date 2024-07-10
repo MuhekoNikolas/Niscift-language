@@ -1,0 +1,14 @@
+# Python Single line comments
+// Javascript-like single line comments
+
+/*/
+    Js multi line 
+    docstings
+/*/
+
+/* Python like multi line strings will also be supported in the near future, 
+currently they only function as strings */
+var multi_line_string = """
+Hello, this is a multiline
+string
+"""

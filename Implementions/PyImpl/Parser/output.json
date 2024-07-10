@@ -1,0 +1,46 @@
+{
+    "Root": {
+        "statements": [
+            {
+                "Simple_stmt": {
+                    "isSimpleStatement": true,
+                    "isCompoundStatement": false,
+                    "statement": [
+                        {
+                            "variable_const": "var",
+                            "variable_names": [
+                                {
+                                    "names": [
+                                        {
+                                            "Dotted_Name": {
+                                                "names": [
+                                                    {
+                                                        "IDENTIFIER": {
+                                                            "name": "multi_line_string"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "assignment": {
+                                "ASSIGN": {
+                                    "contents": [
+                                        {
+                                            "String": {
+                                                "value": "\nHello, this is a multiline\nstring\n",
+                                                "prefixes": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

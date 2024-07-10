@@ -1,0 +1,58 @@
+
+p = """
+gijgojgokg
+gjgiojgo
+51
+"""
+c = rf"iiojoijopjpoj"
+const lolol = 9
+//const lolol = "ff" #Error here
+
+//const x.y = 204040 #Error here
+
+x = 2
+
+var x = y
+
+const y = null
+
+
+let p = null
+
+let p = "None"
+let yfif = None
+
+const f += 5
+
+/* this is a mul
+ti line
+comment
+hello ther */
+
+# const o = 9
+
+pololo = {"g": 9, l:1}
+//jififjifj, poaladkok = {"g": 9, l:1} #Error here
+
+const n, o = 1,"9"
+pov, li = [2, 0,3,2]
+#p, i = [2]
+xoxo, yoyo, zozo = 8; const pffi = 10
+x = 10
+
+
+const junior = { r:2, x:r, p:9}
+junior.thiss = "fjoifjfoij"
+junior.thiss_ = []
+junior["r"] = {"p":{u:"p"}, jhuihuhiuhihuiuhiuhihiuhiuhui: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"}
+junior["r"]["x"] = 10
+junior["th"] = "me"
+
+p = [10,20,49,40, [4040, 133330, "fo9ijfoifj", 30], []]
+
+p[2] = 10
+niko = (2, (8), [9], {o:0})
+niko[3]["2"] = 8
+nujo = 1,2,3,4,5,7
+
+
